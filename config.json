@@ -1,0 +1,26 @@
+{
+  "token": "MTQwODI0Mjg2MzMyMTM4NzEyOA.GiRSLe.SRPgtvEAYFyZt9_GVYeHINLteuCATqMsCM_urA",
+  "guild_ids": [
+    "1257242885586157590",
+    "1399631207188271236"
+  ],
+  "current_season": "Schitt Kickers GT3 Cup - Season 1 2025",
+  "channels": {
+    "leaderboard": null,
+    "uploads": null,
+    "backups": null,
+    "logs": null
+  },
+  "roles": {
+    "admin": "1257242885586157590",
+    "stats": "1257254921858715649",
+    "viewer": null
+  },
+  "google_drive": {
+    "enabled": false,
+    "service_account_file": "service-account-key.json",
+    "folder_id": null,
+    "auto_backup": true
+  },
+  "discord_links": {}
+}
